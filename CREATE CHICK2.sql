@@ -43,6 +43,13 @@ VALUES
 ('2016-10-05', 'Peyton', 'Woods' ),
 ('2016-10-05', 'Max', 'Li' );
 
+INSERT INTO Orders
+	(OrderDate, CustFName)
+VALUES
+('2016-10-01', 'John'),
+('2016-10-01', 'Johnny'),
+('2016-10-01', 'Jane');
+
 INSERT INTO Product (FoodDescription,Price)
 VALUES('Chick-fil-A Chicken Sandwich',3.09),
 ('Chick-fil-A Spicy Chicken Sandwich',3.35),
