@@ -1,0 +1,17 @@
+BETWEEN OPERATOR:
+	Select all products that have price between 2 and 6 in order to help a student decide what he is going to get for dinner.
+
+LIKE OPERATOR:
+	Select all orders that have a customer with the last name 'Li' to find who order it.
+
+IS NULL OPERATOR:
+	Select all orders which customer do not provide their last name.
+
+SORT A RESULT SET BY A COLUMN NAME:
+	Select all orders and order them by the last requested.
+
+SORT A RESULT SET BY AN EXPRESSION:
+	Select all orders and order them by the first and last name of the customers.
+
+RETRIEVE A RANGE OF SELECTED ROWS:
+	Select all products and order them from the smallest to highest price, and presenting only the 5 lowest prices.
