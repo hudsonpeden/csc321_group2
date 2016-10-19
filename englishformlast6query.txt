@@ -15,3 +15,9 @@ SORT A RESULT SET BY AN EXPRESSION:
 
 RETRIEVE A RANGE OF SELECTED ROWS:
 	Select all products and order them from the smallest to highest price, and presenting only the 5 lowest prices.
+
+
+
+
+IN OPERATOR:
+	Select all orders in line that have more than 2 of the same type of product.
