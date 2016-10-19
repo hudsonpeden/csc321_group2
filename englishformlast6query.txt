@@ -1,5 +1,5 @@
 BETWEEN OPERATOR:
-	Select all products that have price between 2 and 6 in order to help a student decide what he is going to get for dinner.
+	Select all products that have price between 4 and 6 in order to help a student decide what he is going to get for dinner.
 
 LIKE OPERATOR:
 	Select all orders that have a customer with the last name 'Li' to find who order it.
