@@ -24,3 +24,6 @@ From Product
 Order by Price ASC
 	OFFSET 0 Rows
 	FETCH First 5 Rows Only;
+Select *
+From OrderLineItems
+Where FoodCount NOT IN (1,2);
