@@ -1,6 +1,6 @@
 SELECT foodid, price
 FROM product
-WHERE price < 6
+WHERE price <= 6
 ORDER BY price;
 
 SELECT orderid, foodsequence
